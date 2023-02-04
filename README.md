@@ -1,7 +1,7 @@
 # Supermarket Billing System using Java
 A GUI based application for managing and generating bills for a supermarket
 
-Introduction
+## Introduction
 The Supermarket Billing System is a Java application that provides an easy and efficient way to manage the billing process of a supermarket. It is designed to be user-friendly and makes use of various Java libraries and features to create a graphical user interface. The application is capable of storing customer information, generating bills, and keeping track of the stock inventory. The application has the following features:
 
 ## Store customer information
