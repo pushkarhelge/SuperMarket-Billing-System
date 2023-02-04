@@ -1,4 +1,4 @@
-##Supermarket Billing System using Java
+## Supermarket Billing System using Java
 A GUI based application for managing and generating bills for a supermarket
 
 Introduction
