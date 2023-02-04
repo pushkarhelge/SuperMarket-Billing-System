@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="OOP">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/supermarket.jar/OOP.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
